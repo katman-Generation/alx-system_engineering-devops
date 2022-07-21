@@ -26,5 +26,5 @@ do
 			;;
 	esac
 
-	let t+=1
+	((t+=1))
 done
