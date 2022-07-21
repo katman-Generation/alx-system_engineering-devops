@@ -5,5 +5,5 @@ t=0
 while [ $t -lt 10 ]
 do
 	echo "Best School"
-	let t=t+1
+	((t=t+1))
 done
